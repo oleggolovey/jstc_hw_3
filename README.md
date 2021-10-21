@@ -1,1 +1,1 @@
-# jstc_hw_3
+### Create an async function with a known response shape (Promise generic), use https://jsonplaceholder.typicode.com/posts - iterate over them and for each post and append them to the DOM as new nodes

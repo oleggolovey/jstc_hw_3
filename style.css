@@ -1,0 +1,21 @@
+span {
+    display: flex;
+}
+
+p {
+    margin-bottom: 5px;
+}
+
+.post {
+    max-width: 400px;
+    font-size: 18px;
+    padding: 20px;
+    margin: 0 30px 30px 0;
+    background: antiquewhite;
+}
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
